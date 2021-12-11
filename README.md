@@ -4,3 +4,6 @@ Durable Azure Function and is an extension of Azure Function that allows to depl
 ## Big Data
 we can use durable function to take advantage of the parallel processing, therefore we can spread it in different Big Data use cases
 ## map reduce exemple
+![exemple map reduce](./exemple.png)
+# presentation
+for more information click [here](https://slides.com/yassineelmahi/deck/fullscreen)
